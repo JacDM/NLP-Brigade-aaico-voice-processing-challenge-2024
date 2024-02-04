@@ -34,9 +34,9 @@ Team name: [Team name]
 
 Members:
 
-- [Member Name] - [Member email]
-- [Member Name] - [Member email]
-- [Member Name] - [Member email]
+- Francis Sandrino - [Member email]
+- Jai Varsani - [Member email]
+- Jacinth FDaniel Moses - jackdanielmoseshs@gmail.com
 
 #### Solution description
 
