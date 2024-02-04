@@ -1,4 +1,4 @@
-# AAICO February 2024 Voice Processing Challenge
+<img width="255" alt="image" src="https://github.com/JacDM/NLP-Brigade-aaico-voice-processing-challenge-2024/assets/102953468/8741dcce-28fc-47b6-9f7d-76cebb7f11ea"># AAICO February 2024 Voice Processing Challenge
 
 ## Welcome
 
@@ -30,12 +30,12 @@ To have your solution considered, it must be reproducible by the AAICO team.
 
 #### Team
 
-Team name: [Team name]
+Team name: NLP Brigade
 
 Members:
 
-- Francis Sandrino - [Member email]
-- Jai Varsani - [Member email]
+- Francis Sandrino - sfrancisrussell1@gmail.com
+- Jai Varsani - Varsanijai@gmail.com
 - Jacinth Daniel Moses - jackdanielmoseshs@gmail.com
 
 #### Solution description
