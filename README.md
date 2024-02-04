@@ -36,7 +36,7 @@ Members:
 
 - Francis Sandrino - [Member email]
 - Jai Varsani - [Member email]
-- Jacinth FDaniel Moses - jackdanielmoseshs@gmail.com
+- Jacinth Daniel Moses - jackdanielmoseshs@gmail.com
 
 #### Solution description
 
